@@ -23,7 +23,7 @@ class TestStrings:
         assert is_even(4) is True
         assert is_even(3) is False
 
-def test_multiple(self):
+def test_multiply(self):
     """Test multiplying two positive numbers."""
-    assert multiple(9, 9) == 81
+    assert multiply(9, 9) == 81
 
